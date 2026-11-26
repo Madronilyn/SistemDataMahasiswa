@@ -43,4 +43,8 @@ python main.py
 
 ## Pembuat
 
-Nama: Madroni NIM: 14012500032 Kelas: 3C KOM Program Studi: Ilmu Komputer Universitas Bina Bangsa
+Nama: Madroni
+NIM: 14012500032 
+Kelas: 3C KOM 
+Program Studi: Ilmu Komputer 
+Universitas Bina Bangsa
